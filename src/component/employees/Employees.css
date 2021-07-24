@@ -1,0 +1,8 @@
+.employees {
+    flex-wrap: wrap;
+    width: 100%;
+    /* padding: 30px; */
+    display: flex;
+    /* margin: 20px; */
+    justify-content: center;
+}
